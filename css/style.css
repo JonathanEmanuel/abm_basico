@@ -1,0 +1,14 @@
+header, footer {
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    min-height: 80vh;
+}
+
+tr > td > img {
+    width: 64px;
+}
